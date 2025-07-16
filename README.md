@@ -52,9 +52,4 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
 
-1. Clone repositori ini:
-
-```bash
-git clone https://github.com/username/nama-repo.git
